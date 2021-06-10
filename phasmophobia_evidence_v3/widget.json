@@ -143,6 +143,166 @@
     "value": "!vipoff",
     "group": "Commands"
   },
+  "barOne": {
+    "type": "dropdown",
+    "label": "Bar One",
+    "value": "name",
+    "options": {
+      "none": "None",
+      "border": "Border",
+      "name": "Name",
+      "location": "Location",
+      "evidence": "Evidence",
+      "counter": "Counter",
+      "optional-objectives": "Optional Objectives",
+      "conclusion": "Conclusion"
+    },
+    "group": "Bars"
+  },
+  "barTwo": {
+    "type": "dropdown",
+    "label": "Bar Two",
+    "value": "location",
+    "options": {
+      "none": "None",
+      "border": "Border",
+      "name": "Name",
+      "location": "Location",
+      "evidence": "Evidence",
+      "counter": "Counter",
+      "optional-objectives": "Optional Objectives",
+      "conclusion": "Conclusion"
+    },
+    "group": "Bars"
+  },
+  "barThree": {
+    "type": "dropdown",
+    "label": "Bar Three",
+    "value": "evidence",
+    "options": {
+      "none": "None",
+      "border": "Border",
+      "name": "Name",
+      "location": "Location",
+      "evidence": "Evidence",
+      "counter": "Counter",
+      "optional-objectives": "Optional Objectives",
+      "conclusion": "Conclusion"
+    },
+    "group": "Bars"
+  },
+  "barFour": {
+    "type": "dropdown",
+    "label": "Bar Four",
+    "value": "counter",
+    "options": {
+      "none": "None",
+      "border": "Border",
+      "name": "Name",
+      "location": "Location",
+      "evidence": "Evidence",
+      "counter": "Counter",
+      "optional-objectives": "Optional Objectives",
+      "conclusion": "Conclusion"
+    },
+    "group": "Bars"
+  },
+  "barFive": {
+    "type": "dropdown",
+    "label": "Bar Five",
+    "value": "optional-objectives",
+    "options": {
+      "none": "None",
+      "border": "Border",
+      "name": "Name",
+      "location": "Location",
+      "evidence": "Evidence",
+      "counter": "Counter",
+      "optional-objectives": "Optional Objectives",
+      "conclusion": "Conclusion"
+    },
+    "group": "Bars"
+  },
+  "barSix": {
+    "type": "dropdown",
+    "label": "Bar Six",
+    "value": "conclusion",
+    "options": {
+      "none": "None",
+      "border": "Border",
+      "name": "Name",
+      "location": "Location",
+      "evidence": "Evidence",
+      "counter": "Counter",
+      "optional-objectives": "Optional Objectives",
+      "conclusion": "Conclusion"
+    },
+    "group": "Bars"
+  },
+  "barSeven": {
+    "type": "dropdown",
+    "label": "Bar Seven",
+    "value": "none",
+    "options": {
+      "none": "None",
+      "border": "Border",
+      "name": "Name",
+      "location": "Location",
+      "evidence": "Evidence",
+      "counter": "Counter",
+      "optional-objectives": "Optional Objectives",
+      "conclusion": "Conclusion"
+    },
+    "group": "Bars"
+  },
+  "barEight": {
+    "type": "dropdown",
+    "label": "Bar Eight",
+    "value": "none",
+    "options": {
+      "none": "None",
+      "border": "Border",
+      "name": "Name",
+      "location": "Location",
+      "evidence": "Evidence",
+      "counter": "Counter",
+      "optional-objectives": "Optional Objectives",
+      "conclusion": "Conclusion"
+    },
+    "group": "Bars"
+  },
+  "barNine": {
+    "type": "dropdown",
+    "label": "Bar Nine",
+    "value": "none",
+    "options": {
+      "none": "None",
+      "border": "Border",
+      "name": "Name",
+      "location": "Location",
+      "evidence": "Evidence",
+      "counter": "Counter",
+      "optional-objectives": "Optional Objectives",
+      "conclusion": "Conclusion"
+    },
+    "group": "Bars"
+  },
+  "barTen": {
+    "type": "dropdown",
+    "label": "Bar Ten",
+    "value": "none",
+    "options": {
+      "none": "None",
+      "border": "Border",
+      "name": "Name",
+      "location": "Location",
+      "evidence": "Evidence",
+      "counter": "Counter",
+      "optional-objectives": "Optional Objectives",
+      "conclusion": "Conclusion"
+    },
+    "group": "Bars"
+  },
   "displayName": {
     "type": "dropdown",
     "label": "Display Name",
